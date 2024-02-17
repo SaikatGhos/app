@@ -1,5 +1,5 @@
 import 'dart:math';
-import 'package:app/utils/supportingVariables.dart';
+
 
 var _chars = 'AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz1234567890';
 

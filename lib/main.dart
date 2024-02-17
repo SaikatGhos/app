@@ -5,7 +5,7 @@ import 'package:app/Pages/HomePage.dart';
 import 'package:app/Test/testForm.dart';
 
 
-import 'package:app/components/ProductDetailsPageComponents/demochecker.dart';
+
 
 
 
